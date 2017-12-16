@@ -1,0 +1,9 @@
+/**侧边栏布局*/
+.sidebar {
+    margin-top: 70px;
+    width: 200px;
+}
+.panel-heading {
+    background-color: #fff;
+    border-radius: none;
+}
